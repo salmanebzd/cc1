@@ -1,0 +1,36 @@
+body{
+    padding-left: 20px;
+    background-color: gold;
+    align-items: center;
+    justify-content: center;
+}
+.first{
+    border: 1px solid black;
+    margin: 50px;
+    padding: 50px;
+
+}
+.first h1{
+    color: rgb(168, 143, 1);
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: center;
+    text-decoration: underline;
+}
+.change .np{
+    background-color: rgb(0, 238, 147);
+}
+.valid{
+    border-radius: 20px;
+    background-color: greenyellow;
+}
+.supprimer{
+    border-radius: 20px;
+}
+ul{
+    list-style-type: none;
+}
+.add{
+    border-radius: 50px;
+    color: red;
+    background-color: gold;
+}
